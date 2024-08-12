@@ -1,1 +1,2 @@
-# DriveEasy
+# DriveEasy - CarRentalSystem
+DriveEasy is a vehicle rental management system developed using Python, MySQL, and Tkinter. This application streamlines the booking process, enhancing efficiency and improving customer satisfaction by providing a user-friendly interface for managing vehicle rentals. It allows for seamless management of reservations, vehicle inventory, and customer information, contributing to a more organized and efficient rental experience.
